@@ -7,12 +7,12 @@
 <html>
 <head>
 <title>Login Page</title>
-<link href="/css/login-form.css" rel="stylesheet" type="text/css">
+<link href="../css/login-form.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<div class="bg-image"></div>
 	<div class="login-box">
-		<img src="login-page-avatar-three.png" class="avatar" />
+		<img src="../images/login-page-avatar-three.png" class="avatar" />
 		<h1>Login Here</h1>
 		<form method="post" autocomplete="off">
 			<p>Username:</p>
