@@ -7,7 +7,7 @@
 <html>
 <head>
 <title>Login Page</title>
-<link href="login-form.css" rel="stylesheet" type="text/css">
+<link href="/css/login-form.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<div class="bg-image"></div>
